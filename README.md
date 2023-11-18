@@ -48,4 +48,4 @@ Recommended: Review [MongoDB README](MONGODB.md) and[Docker Compose README](COMP
 
 ## Authors
 
-Michal Young, Ram Durairajan. Updated by Ali Hassani.
+Carsten Konyn
